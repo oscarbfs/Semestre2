@@ -1,0 +1,10 @@
+Prezados, neste momento não trabalharemos com todos os conceitos da orientação a objetos como
+deve ser… será um processo de construção e agora o foco é montar seu primeiro programa em OO.
+
+1. Crie um delivery com uma classe Pedido que deve conter os atributos: numeroPedido,
+nomeCliente, telefoneCliente, nascimentoCliente, descriçãoProdutos, valorTotal, pedidoPago e
+pedidoCancelado e os métodos para: criar o pedido, imprimir o pedido, imprimir todos os
+pedidos, cancelar o pedido, pagar o pedido, saber se o cliente é aniversariante.
+
+2. Atualize o sistema criando um método para oferecer 20% de desconto para aniversariantes.
+Solicite a data do dia no início da aplicação.

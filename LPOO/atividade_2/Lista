@@ -1,0 +1,125 @@
+Tecnologia em Análise e Desenvolvimento de Sistemas
+Linguagem de Programação Orientada a Objetos
+Prof. Romero Freire
+LISTA DE EXERCÍCIOS – 02
+1. Fazer o valor de I, informado pelo usuário, assumir um valor 10 unidades maior que o atual.
+2. Subtrair o valor da variável B do valor da variável A, informadas pelo usuário, elevar ao quadrado
+a diferença e armazenar o resultado final em W.
+3. Uma variável R, informada pelo usuário, terá seu valor somado ao resto do seu valor dividido por
+3.
+4. Some os valores de F e G, divida pela soma dos valores de R e S, eleve ao quadrado o quociente e
+armazene o resultado em P, onde os valores de F/G/R/S são informados pelo usuário.
+5. Armazene em OMEGA o valor correspondente ao dobro de PI.
+6. Trocar o sinal da variável A, informada pelo usuário.
+7. Calcular a média aritmética de 5 notas, informadas pelo usuário, e exibi-las.
+8. Solicite ao usuário um nome qualquer e em seguida exiba “Boa Noite” seguido do NOME
+solicitado.
+9. Calcule o consumo médio de um veículo solicitando ao usuário a quilometragem percorrida e
+quantidade de litros gastos nesse fim.
+10. Executar a conversão de:
+a. Temperatura informada pelo usuário em graus Fahrenheit para a equivalente em graus
+Celsius e exibir na saída as duas temperaturas onde C = 5/9(f-32)
+b. Quantidade de chuva, informada pelo usuário, em polegadas para milímetros (25.4mm =
+1 pol) e exibir na saída as duas medidas.
+c. Quilômetros por hora, informado pelo usuário, para metros por segundo (3,6km/h
+equivale a 1 m/s) e exibir na saída as duas medidas.
+11. Calcule a área de um trapézio, onde base menor, base maior e altura são informadas pelo
+usuário e sabendo que a fórmula é:
+Tecnologia em Análise e Desenvolvimento de Sistemas
+Linguagem de Programação Orientada a Objetos
+Prof. Romero Freire
+12. Solicite ao usuário os comprimentos de três lados de um triangulo (A, B e C) e calcule a área de
+acordo com a fórmula abaixo:
+13. Calcule a raiz de uma equação f(x) = ax + b, onde a e b são informados pelo usuário, e escreva o
+resultado na tela. Dica: A raiz de uma equação de primeiro grau é calculada como: X= − B/A
+14. Calcule a média ponderada de dois números fornecidos pelo usuário com as suas respectivas
+notas. Dica: A média ponderada é calculada da seguinte forma:
+15. Converta um tempo definido em hora, minuto e segundos, informados pelo usuário, para
+SEGUNDOS.
+16. Calcule a diferença em segundos entre dois tempos, informados pelo usuário, definidos em hora,
+minuto e segundo.
+17. Faça um programa que solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do
+desconto e o preço a pagar.
+18. Escreva um programa que calcule o tempo de uma viagem de carro. Pergunte a distância a percorrer e a
+velocidade média esperada para a viagem.
+19. Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo usuário,
+assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar, sabendo que o
+carro custa R$ 60 por dia e R$ 0,15 por km rodado.
+20. Escreva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade
+de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante perde 10 minutos
+de vida a cada cigarro, calcule quantos dias de vida um fumante perderá. Exiba o total em dias.
+21. Fazer um programa para ler uma frase e contar quantas palavras existem na frase.
+22. Fazer um programa para inverter uma string informada pelo usuário.
+Tecnologia em Análise e Desenvolvimento de Sistemas
+Linguagem de Programação Orientada a Objetos
+Prof. Romero Freire
+23. Fazer um programa para identificar se uma string é um palíndromo. Ex.: palavras: ovo, anilina,
+osso, reviver, sopapos e frases: O galo ama o lago QUE AO SEREM LIDAS AO CONTRÁRIO MANTEM
+o SENTIDO.
+24. Solicite dois números ao usuário. Se os dois números forem diferentes de zero, calcule e imprima
+a divisão do primeiro pelo segundo número. Se o segundo número for zero, exiba a mensagem de
+que não é possível efetuar a operação.
+25. Leia dois números quaisquer e informe qual deles é maior.
+26. Leia um ano e informe se este ano é bissexto ou não (Obs: um ano é bissexto se ele for divisível
+por 400 ou se ele for divisível por 4 e não por 100).
+27. Ler 4 números inteiros e calcular a soma dos números que forem par.
+28. Dados três valores, exibir o maior dos três valores. Os três valores precisam ser distintos.
+29. Leia a idade de uma pessoa e informe se for maior ou menor de idade (18 anos) e se tiver mais de
+21 anos informe que que possui idade civil.
+30. Escreva por extenso um número de UM algarismo.
+31. Escreva por extenso um número de DOIS algarismos.
+32. Solicite o ano e mês de nascimento e o ano e mês atual e informe a idade da pessoa.
+33. Exibir os números naturais de 1 a 100.
+34. Calcular e exibir o somatório dos números naturais de 1 a 100.
+35. Calcular e exibir a média aritmética dos números naturais de 1 a 100.
+36. Calcular e exibir a média de uma quantidade números quaisquer informado previamente
+37. pelos usuários.
+38. Escreva todos os números naturais em ordem CRESCENTE entre dois números quaisquer lidos pelo
+usuário.
+39. Calcule o valor do fatorial de 7.
+40. Calcule o valor do fatorial para um número N qualquer maior que 2 e menor que 30.
+41. Liste os 30 primeiros números PARES que são múltiplos de 7 e 3 ao mesmo tempo.
+42. Informe a partir da leitura de 200 valores numéricos a quantidade de números digitados que são
+positivos, negativos e zero. (use o módulo random).
+43. Decomponha um número qualquer e escreva os seus algarismos separadamente.
+44. Escreva um programa para calcular os divisores de um número qualquer digitado pelo usuário.
+45. Determine se um número lido é PRIMO.
+46. Escreva os 500 primeiros números PRIMOS.
+47. Calcule o M.D.C. (Máximo Divisor Comum) de dois números LIDOS.
+48. A partir da leitura de um número indeterminado de notas positivas, calcular e exibir a média
+aritmética dessas notas.
+49. Modifique a questão anterior para informar além da média a maior e menor nota lida,
+respectivamente.
+50. Leia um número indeterminado de nomes e suas notas e ao final informe qual o(s) nome(s) da(s)
+pessoa(s) que teve (tiveram) a maior nota.
+Tecnologia em Análise e Desenvolvimento de Sistemas
+Linguagem de Programação Orientada a Objetos
+Prof. Romero Freire
+51. Informe, a partir da leitura de uma quantidade indeterminada de números não nulos, a quantidade
+de números positivos e negativos. Assuma que o FLAG é zero.
+52. Uma sequência indeterminada de valores deverá ser lida, pressupondo-se que está em ordem
+crescente dos valores. O programa deve emitir uma mensagem de erro toda vez for digitado um
+valor fora da sequência, e continuar lendo até encontrar o FLAG -1. Ao final da execução desejase saber quantos valores foram digitados fora de ordem.
+53. Leia um número indeterminado de IDADE associadas ao SEXO de uma pessoa e informe quantas
+pessoas do sexo masculino e feminino foram digitadas e também a média de idade por SEXO
+54. Leia a duração em minutos de cada ligação de uma conta telefônica e ao final informe o valor da
+conta e a quantidade de pulsos, sabendo-se que:
+a. O usuário tem uma franquia de 100 pulsos
+b. Os primeiros 4 minutos são tarifados em DOIS pulsos
+c. A partir do quarto minuto, cada 4 minutos são tarifados em um PULSO
+d. O valor do pulso é de R$ 0,17
+e. Exemplo: 3 min = 2 pulsos, 4 min = 2 pulsos, 6 min = 3 pulsos, 8 min = 3 pulsos, 10 min = 4
+pulsos, 12 min = 4 pulsos, 14 min = 5 pulsos ... N
+55. Leia uma quantidade indeterminada de salários de pessoas e calcule o valor do IMPOSTO DE
+RENDA com base na tabela abaixo. Ao final o sistema deve imprimir o total de Salários e o Total
+de Imposto a ser recolhido.
+56. Uma firma contrata um encanador a R$ 20,00 por dia. Escreva um programa que leia o número de
+dias trabalhados pelo encanador e imprima a quantia liquida que deverá ser paga, sabendo-se que
+são descontados 8% para o imposto de renda.
+57. Uma cidade classifica um índice de poluição menor que 35 como agradável; de 35 até 60
+desagradável e acima de 60 perigoso. Escreva um programa que lê um número real representando
+o índice de poluição e imprime a classificação adequada para ele.
+58. Escreva um programa que lê 3 números inteiros e verifica se estes podem formar um triângulo, ou
+seja, a soma de dois lados tem que ser necessariamente maior que o terceiro lado. E, se forem
+verificar se é um triângulo equilátero (3 lados iguais), isósceles (2 lados iguais) ou escaleno (3 lados
+diferentes). Imprima uma mensagem conforme o resultado obtido.
