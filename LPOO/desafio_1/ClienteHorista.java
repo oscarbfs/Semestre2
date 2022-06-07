@@ -4,9 +4,9 @@ public class ClienteHorista extends Cliente{
     private double valorTotal;
     private String tipo;
 
-    public ClienteHorista(String nome, Ticket ticket, String profissao, ArrayList<Veiculo> veiculos, double valorTotal,
+    public ClienteHorista(String nome, String profissao, ArrayList<Veiculo> veiculos, double valorTotal,
             String tipo) {
-        super(nome, ticket, profissao, veiculos);
+        super(nome, profissao, veiculos);
         this.valorTotal = valorTotal;
         this.tipo = tipo;
     }
