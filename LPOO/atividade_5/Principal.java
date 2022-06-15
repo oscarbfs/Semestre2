@@ -21,6 +21,7 @@ public class Principal {
             int numDados = scanner.scannerInt("Informe a quantidade de dados:", "nao");
             
             jogo.jogar(numJogadores, numDados);
+
         } catch (Exception ex) {
             System.out.println(ex.getMessage());
         }

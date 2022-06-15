@@ -30,6 +30,10 @@ public class Cliente {
     }
     @Override
     public String toString() {
-        return "Nome = " + nome + "\nProfissao = " + profissao  + "\nVeiculos=" + veiculos;
+        String cliente = "Nome = " + nome + "\nProfissao = " + profissao  + "\nVeiculos:\n";
+        for (Veiculo veiculo : veiculos) {
+            cliente += veiculo.toString();
+        }
+        return cliente;
     }
 }
