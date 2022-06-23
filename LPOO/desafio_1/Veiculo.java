@@ -1,3 +1,5 @@
+package LPOO.desafio_1;
+
 public class Veiculo {
     private String modelo;
     private String marca;

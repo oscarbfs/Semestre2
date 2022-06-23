@@ -1,4 +1,4 @@
-package Questao1;
+package LPOO.atividade_7.Questao1;
 public class Ingresso {
     private double valor;
 

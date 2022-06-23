@@ -1,3 +1,5 @@
+package LPOO.atividade_2;
+
 public class question_7 {
     public static void main(String[] args) {
         function();

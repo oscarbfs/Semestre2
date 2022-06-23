@@ -1,3 +1,5 @@
+package LPOO.atividade_1;
+
 public class Question {
     String sentence;
     Integer answer;

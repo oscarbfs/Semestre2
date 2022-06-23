@@ -1,3 +1,5 @@
+package LPOO.atividade_2;
+
 import java.util.Scanner;
 
 public class scanner {

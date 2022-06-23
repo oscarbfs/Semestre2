@@ -1,3 +1,5 @@
+package LPOO.atividade_1;
+
 import java.util.Scanner;
 
 public class questao_7 {

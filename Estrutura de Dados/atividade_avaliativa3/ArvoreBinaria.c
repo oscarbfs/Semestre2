@@ -55,13 +55,21 @@ int totalNodoArvBin(ArvBin *raiz) {
 }
 
 void listagemNivel(ArvBin *raiz, int index) {
+    // if (*raiz != NULL)
+    // {
+    //     printf("\nNivel 0 (Raiz): %d\n", (*raiz)->info);
+    //     for(int i=1;i<alturaArvBin(raiz);i++) {
+    //         printf("Nivel %d: ", i);
+    //         printf("\n");
+    //     }
+    // }
     if (*raiz != NULL)
     {
-        printf("\nNivel 0 (Raiz): %d\n", (*raiz)->info);
-        for(int i=1;i<alturaArvBin(raiz);i++) {
-            printf("Nivel %d: ", i);
-            printf("\n");
-        }
+        printf("\nNivel %d: ", index);
+        printf("%d ", (*raiz)->info);
+        index++;
+        listagemNivel(&((*raiz)->esq), index);
+        listagemNivel(&((*raiz)->dir), index);
     }
 }
 
@@ -200,7 +208,7 @@ int main(int argc, char const *argv[])
         printf("Altura da arvore: %d\n", alturaArvBin(raiz)-1);
         printf("Nodos (Por nivel): ");
         listagemNivel(raiz, 0);
-        printf("Nodos (Pre-ordem): ");
+        printf("\nNodos (Pre-ordem): ");
         listagemPreOrdem(raiz);
         printf("\nNodos (Ordem): ");
         listagemOrdem(raiz);

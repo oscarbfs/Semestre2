@@ -1,3 +1,5 @@
+package LPOO.atividade_6;
+
 public class Pedido {
     private int numPedido;
     private double valorTotal;

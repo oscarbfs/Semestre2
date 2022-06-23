@@ -1,3 +1,5 @@
+package LPOO.desafio_1;
+
 public class Ticket {
     private Cliente cliente;
     private Veiculo veiculo;

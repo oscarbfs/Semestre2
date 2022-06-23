@@ -1,3 +1,5 @@
+package LPOO.atividade_2;
+
 import java.util.ArrayList;
 
 public class question_43 {
