@@ -1,4 +1,4 @@
-package Questao5;
+package LPOO.atividade_7.Questao5;
 
 public class ItemPedido {
     

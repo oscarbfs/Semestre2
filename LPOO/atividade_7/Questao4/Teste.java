@@ -1,18 +1,18 @@
-package Questao4;
+package LPOO.atividade_7.Questao4;
 
-import Questao1.CamaroteInferior;
-import Questao1.CamaroteSuperior;
-import Questao1.Ingresso;
-import Questao1.Normal;
-import Questao1.Vip;
-import Questao2.Imovel;
-import Questao2.Novo;
-import Questao2.Usado;
-import Questao3.Animal.Cachorro;
-import Questao3.Animal.Gato;
-import Questao3.Pessoa.Miseravel;
-import Questao3.Pessoa.Pobre;
-import Questao3.Pessoa.Rica;
+import LPOO.atividade_7.Questao1.CamaroteInferior;
+import LPOO.atividade_7.Questao1.CamaroteSuperior;
+import LPOO.atividade_7.Questao1.Ingresso;
+import LPOO.atividade_7.Questao1.Normal;
+import LPOO.atividade_7.Questao1.Vip;
+import LPOO.atividade_7.Questao2.Imovel;
+import LPOO.atividade_7.Questao2.Novo;
+import LPOO.atividade_7.Questao2.Usado;
+import LPOO.atividade_7.Questao3.Animal.Cachorro;
+import LPOO.atividade_7.Questao3.Animal.Gato;
+import LPOO.atividade_7.Questao3.Pessoa.Miseravel;
+import LPOO.atividade_7.Questao3.Pessoa.Pobre;
+import LPOO.atividade_7.Questao3.Pessoa.Rica;
 
 public class Teste {
     public static void main(String[] args) {

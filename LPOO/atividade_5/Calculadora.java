@@ -1,3 +1,5 @@
+package LPOO.atividade_5;
+
 public class Calculadora {
     public double somar(double parcela1, double parcela2) {
         double resultado = parcela1 + parcela2;

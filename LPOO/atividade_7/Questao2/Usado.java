@@ -1,4 +1,4 @@
-package Questao2;
+package LPOO.atividade_7.Questao2;
 
 public class Usado extends Imovel{
     private double desconto;

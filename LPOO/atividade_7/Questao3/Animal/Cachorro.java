@@ -1,4 +1,4 @@
-package Questao3.Animal;
+package LPOO.atividade_7.Questao3.Animal;
 
 public class Cachorro extends Animal{
     public Cachorro(String nome, String raca) {

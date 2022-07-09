@@ -1,4 +1,4 @@
-package Questao4;
+package LPOO.atividade_7.Questao4;
 
 
 import java.util.Scanner;
