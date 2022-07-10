@@ -46,8 +46,16 @@ public class Cliente {
         this.contas = contas;
     }
 
+    String listarContas() {
+        String contas = "";
+        for (Conta conta : this.contas) {
+            contas += conta.toString();
+        }
+        return contas;
+    }
+
     @Override
     public String toString() {
-        return "Cliente = " + nome + "\nCPF = " + cpf + "\nContas = [\n" + contas + "\n]";
+        return "Cliente = " + nome + "\nCPF = " + cpf + "\nContas = [\n" + listarContas() + "]\n";
     }
 }

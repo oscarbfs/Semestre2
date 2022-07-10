@@ -4,11 +4,7 @@ import java.util.ArrayList;
 
 public class Interface {
     public static void main(String[] args) {
-        ArrayList<Cliente> clientes = new ArrayList<>();
-        clientes.add(new Cliente("Oscar", 123456, 123, new ArrayList<>()));
-        Banco banco = new Banco("OscarBank", clientes);
-
-        int index = 0;
+        Banco banco = new Banco("OscarBank", new ArrayList<>());
 
         while (true) {
             try {
@@ -21,8 +17,7 @@ public class Interface {
                 if (comando == 1) {
                     int cpf = scanner.scannerInt("Informe seu CPF (somente numeros):", "nao");
                     int senha = scanner.scannerInt("Informe sua senha do seu perfil:", "nao");
-                    banco.autencicarCliente(cpf, senha, index);
-                    index++;
+                    banco.autencicarCliente(cpf, senha);
                 } else if (comando == 2) {
                     int newComando = scanner.scannerInt(
                             "Deseja se cadastrar?\n" +

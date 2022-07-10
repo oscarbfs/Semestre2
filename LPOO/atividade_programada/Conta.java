@@ -47,6 +47,6 @@ public class Conta {
 
     @Override
     public String toString() {
-        return "Conta = " + numConta + "\nAgencia = " + agencia + "\nSaldo=" + saldo;
+        return "[Conta = " + numConta + ", Agencia = " + agencia + ", Saldo = " + saldo + "]\n";
     }
 }

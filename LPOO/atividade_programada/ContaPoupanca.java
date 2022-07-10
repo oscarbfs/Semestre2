@@ -5,7 +5,7 @@ public class ContaPoupanca extends Conta{
 
     
 
-    public ContaPoupanca(String agencia, int numConta, int senha, int saldo, double rendimento) {
+    public ContaPoupanca(String agencia, int numConta, int senha, double saldo, double rendimento) {
         super(agencia, numConta, senha, saldo);
         this.rendimento = rendimento;
     }
