@@ -1,0 +1,12 @@
+Quantidade de Palavras: 8
+Quantidade de Linhas: 3
+o: 1
+o: 1
+
+: 1
+o: 1
+o: 1
+
+: 1
+o: 1
+o: 1

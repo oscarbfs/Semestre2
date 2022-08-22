@@ -1,0 +1,4 @@
+Dica:Fruta Palavra:banana
+Dica:Transporte Palavra:carro
+Dica:Eletronico Palavra:computador
+Dica:Objeto Palavra:escova
